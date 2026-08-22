@@ -12,7 +12,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>IPA_URL_HERE</string>
+          <string>https://github.com/uspvishal/BuildExport/releases/download/applesAndBananas-1.16.1/ApplesBananas.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
