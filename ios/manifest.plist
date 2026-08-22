@@ -18,13 +18,13 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>BUNDLE_ID_HERE</string>
+        <string>com.uspdigital.applesbananas</string>
         <key>bundle-version</key>
         <string>1.16.1</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>USP- Apples and Bananas</string>
+        <string>Apples & Bananas</string>
       </dict>
     </dict>
   </array>
